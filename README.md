@@ -10,9 +10,9 @@ And the VR setup from Justing P Barnett's tutorials: https://www.youtube.com/cha
 Set up Unity environment:
 -------------------------
 
-1- Download Unity Hub here: https://unity.com/download
+1- Download Unity Hub: https://unity.com/download
 
-2- Install the selected version of Unity
+2- Install the selected version of Unity (2020 LTS or above). 
 
 How to use:
 -----------

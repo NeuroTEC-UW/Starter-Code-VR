@@ -7,6 +7,13 @@ Based on this tutorial: https://www.lucashaley.com/how-to-create-a-new-unity-tem
 
 And the VR setup from Justing P Barnett's tutorials: https://www.youtube.com/channel/UC1yXfU3c2gXchdmscjvCmMQ
 
+Set up Unity environment:
+-------------------------
+
+1- Download Unity Hub here: https://unity.com/download
+
+2- Install the selected version of Unity
+
 How to use:
 -----------
 
